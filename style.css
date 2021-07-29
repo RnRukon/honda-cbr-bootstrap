@@ -1,5 +1,25 @@
 /* ----------- Featured Bikes section start------------ */
 
-.bike-filter {
+body {
+    font-family: 'Bree Serif', serif;
+}
+
+header {
+    background-color: #264653;
+}
+
+nav {
+    background-color: #264653;
+}
+
+.bike-filter-grayscale {
     filter: grayscale(1);
+}
+
+.title-half-color {
+    color: #E76F51;
+}
+
+.button-color {
+    background-color: #E76F51;
 }
